@@ -1,0 +1,16 @@
+{
+    "promo": [{
+        "promoCode": "RRD4D32",
+        "discount": "10",
+        "minOrder": "5000",
+        "discription": "10% discount for orders above $5000 (pre-discount)"
+    },
+    {
+        "promoCode": "44F4T11",
+        "discount": "15",
+        "minOrder": "10000",
+        "discription": "15% discount for orders above $10000 (pre-discount)"
+    }
+]
+}
+
